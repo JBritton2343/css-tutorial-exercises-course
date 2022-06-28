@@ -1,12 +1,11 @@
 /** Insert your code here **/
-ul{
+ul {
 	color: red !important;
-	
 }
-ol li{
+ol li.li2 {
 	background-color: green;
 }
-tr:nth-child(odd){
+tr:nth-child(odd) {
 	background-color: yellow;
 }
 /*********** READ ONLY BLOCK ******

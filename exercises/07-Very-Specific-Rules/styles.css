@@ -2,7 +2,7 @@
 ul {
 	color: red !important;
 }
-ol li.li2 {
+ol li.li {
 	background-color: green;
 }
 tr:nth-child(odd) {

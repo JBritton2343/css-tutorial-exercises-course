@@ -4,10 +4,11 @@
 #the-second-one {
 	font-size: 25px;
 }
-h2{
+
+/* YOUR CODE BELOW THIS LINE */
+#my-first-div #my-second-div h2 {
 	font-size: 0.8em;
 }
-h3{
+#my-first-div #my-second-div h3 {
 	font-size: 0.8rem;
 }
-/* YOUR CODE BELOW THIS LINE */

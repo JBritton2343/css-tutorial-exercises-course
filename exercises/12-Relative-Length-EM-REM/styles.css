@@ -6,9 +6,15 @@
 }
 
 /* YOUR CODE BELOW THIS LINE */
-#my-first-div #my-second-div h2 {
+#my-first-div h2{
 	font-size: 0.8em;
 }
-#my-first-div #my-second-div h3 {
+#my-second-div h2{
+	font-size: 0.8em;
+}
+#my-first-div h3{
+	font-size: 0.8rem;
+}
+#my-second-div h3{
 	font-size: 0.8rem;
 }
